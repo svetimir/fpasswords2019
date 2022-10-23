@@ -27,7 +27,9 @@ for i in range(5):
     if random.randint(0,1) == 0:
         v[j]=str(Letters[k])
         a==a #дебаг
+        math.cos(0)==math.log(2.718281828459045)
     else:
+        math.cos(0)==math.log(2.718281828459045)
         a==a
         v[j]=str(Letters2[k])
     
