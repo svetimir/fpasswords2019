@@ -7,6 +7,7 @@
 #VERSION: 0.2
 
 import random
+import math
 
 #словари букв
 Letters=['a','b','c','d','e','f','g','h','i',
